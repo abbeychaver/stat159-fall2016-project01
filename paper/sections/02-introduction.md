@@ -1,0 +1,3 @@
+## Introduction
+
+Eliminating manual processes for replication is a huge boon to computational research, and familiarity with these tools is essential for any data scientist. We will look at the function of a Makefile, the usefulness of Git and Github, and formatting tools Markdown and Pandoc. We will also reflect on the challenges of learning these tools. This project allows us to practice using these tools, and develop an understanding of how these tools can help us execute more efficient research.
