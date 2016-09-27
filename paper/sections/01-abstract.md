@@ -4,7 +4,7 @@
 
 September 30, 2016
 
-![](images/stat159-logo.png)
+![](../images/stat159-logo.png)
 
 ## Abstract
 

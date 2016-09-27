@@ -9,7 +9,7 @@ Makefiles also represent the linear structure of report creation by executing co
 
 ### Git
 
-![](images/git-logo.png)
+![](../images/git-logo.png)
 
 Git is a version control system which allows us to efficiently save versions of files as they are edited so that we can return to previous versions with ease. Git does this by tracking changes between iterations, rather than saving full versions of the file at each stage. At any point in time, Git can reconstruct previous versions of a file by reversing the actions of the previous commits. 
 
@@ -21,13 +21,13 @@ Git also uses the analogy of a tree to facilitate non-linear iteration. By creat
 
 ### Github
 
-![](images/github-logo.png)
+![](../images/github-logo.png)
 
 Github is a service that allows users to store repositories on a remote server over the internet. This is incredibly powerful, because it allows people on different networks to collaborate on the same project, accessing the same up-to-date repositories through the internet. Github is company that provides this service to companies and individuals, and is used ubiquitously in software development. Github can be used through the command line, like Git, but also provides a GUI on their website and through a desktop app that allows users to commit and pull withouot using terminal.
 
 ### Markdown
 
-![](images/markdown-logo.png)
+![](../images/markdown-logo.png)
 
 Markdown is a super low-barrier language for formatting text. Compared to other markup languages like HTML, which allow users to format content but also create complicated nesting structures, include scripts, and complicated styling, Markdown is extremeley simple. It is much more like a simple word processor - in fact, it contains even less functionality than Microsoft Word. Many websites use markdown as the underlying format for comments, posts, or emails, because it provides a bit of formatting without going overboard on functionality.
 Markdown allows users to do simple word formatting like bold and italic, create lists, and use a hierarchy of headings. Markdown can also handle hyperlinks and images. But overall, it is designed to be used without much knowledge of how to visually customize a document. This makes it very accessible, especially to people without any experience programming or even using markup languages. 
@@ -36,7 +36,7 @@ The benefit of Markdown is in its simplicity - besides being incredibly easy to 
 
 ### Pandoc
 
-![](images/pandoc-logo.png)
+![](../images/pandoc-logo.png)
 
 Pandoc is a software that converts a large set of different markup formats to each other. To do this, Pandoc reads an original file into a native representation and then writes it into the specified format for the output file. When there are differences in functionality between the original file and the output file, or even the original file and the native representation, characteristics from the original file can be lost. An advantage of using markdown is that it restricts the user to functionality which is ubiquitous in most other formats, so there is rarely a problem with converting markdown to another file format.
 

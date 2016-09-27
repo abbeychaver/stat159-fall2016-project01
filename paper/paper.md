@@ -5,7 +5,7 @@ Stat 159 Project 1
 
 September 30, 2016
 
-![](images/stat159-logo.png)
+![](../images/stat159-logo.png)
 
 Abstract
 --------
@@ -55,7 +55,7 @@ compilation.
 
 ### Git
 
-![](images/git-logo.png)
+![](../images/git-logo.png)
 
 Git is a version control system which allows us to efficiently save
 versions of files as they are edited so that we can return to previous
@@ -90,7 +90,7 @@ makes Git invaluable for large projects with many collaborators.
 
 ### Github
 
-![](images/github-logo.png)
+![](../images/github-logo.png)
 
 Github is a service that allows users to store repositories on a remote
 server over the internet. This is incredibly powerful, because it allows
@@ -104,7 +104,7 @@ using terminal.
 
 ### Markdown
 
-![](images/markdown-logo.png)
+![](../images/markdown-logo.png)
 
 Markdown is a super low-barrier language for formatting text. Compared
 to other markup languages like HTML, which allow users to format content
@@ -129,7 +129,7 @@ edge cases.
 
 ### Pandoc
 
-![](images/pandoc-logo.png)
+![](../images/pandoc-logo.png)
 
 Pandoc is a software that converts a large set of different markup
 formats to each other. To do this, Pandoc reads an original file into a
